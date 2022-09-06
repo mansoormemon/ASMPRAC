@@ -1,0 +1,9 @@
+**/venv
+
+**/.config
+
+**/.replit
+
+**/replit.nix
+
+**/__pycache__
