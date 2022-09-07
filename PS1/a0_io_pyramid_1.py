@@ -23,5 +23,3 @@ Enter n: 5
 '''
 
 # begin from beneath this line
-
-print('hello')
