@@ -1,4 +1,4 @@
-# PS1 - Problem Set 1
+# W1 - Week 1
 
 ## Programming Terminologies
 
